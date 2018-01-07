@@ -1,5 +1,1 @@
-body,html{height:100%;padding:0px;margin:0px; background-image: url("../img/espaciopiedras.jpg");background-repeat:no-repeat;background-size: cover;}
-
-
-p{top:10%;height:2%;position:relative;color:white;margin:2%;}
-b{color:white;}
+b,p{color:#fff}body,html{height:100%;padding:0;margin:0;background-image:url(../img/espaciopiedras.jpg);background-repeat:no-repeat;background-size:cover}p{top:10%;height:2%;position:relative;margin:2%}
