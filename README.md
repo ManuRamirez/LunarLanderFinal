@@ -2,7 +2,7 @@
 
 v 1.0 versión esqueleto copiada del profesor
 
-v 1.1 se ha creado el HTML
+v 1.1 se han creado los html iniciales que se usaran
 
 v 1.2 se ha añadido el CSS tanto en la versión PC como en la de móvil
 
@@ -17,6 +17,7 @@ v 1.6 creado e implementado about notificando sobre el creador
 v 1.7 implementado un href para volver atrás tanto en instrucciones como en about
 
 
-Version minificada
+Versión minificada
 
 https://github.com/ManuRamirez/LunarLanderFinal/tree/minified
+
