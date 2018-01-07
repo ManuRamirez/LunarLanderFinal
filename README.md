@@ -13,7 +13,7 @@ v 1.0 versión esqueleto que es una copia de la que puso el profesor.
 
 v 1.1 se han creado los html iniciales que se usaran index,about y instrucciones.
 
-v 1.2 se ha añadido el CSS tanto en la versión PC como en la de móvil
+v 1.2 se ha añadido el CSS tanto en la versión PC como en la de móvil que son las siguientes: d.css y m.css
 
 v 1.3 se ha retocado el javascript implementando algunas funciones como tofixed (2) a los decimales
 
