@@ -9,9 +9,9 @@ https://github.com/ManuRamirez/LunarLanderFinal/tree/minified
 
 
 
-v 1.0 versión esqueleto copiada del profesor
+v 1.0 versión esqueleto que es una copia de la que puso el profesor.
 
-v 1.1 se han creado los html iniciales que se usaran
+v 1.1 se han creado los html iniciales que se usaran index,about y instrucciones.
 
 v 1.2 se ha añadido el CSS tanto en la versión PC como en la de móvil
 
@@ -24,6 +24,8 @@ v 1.5 añadido un mensaje cuando la nave aterriza comprueba su velocidad indicá
 v 1.6 creado e implementada la pagina about notificando esta sobre el creador de contenido
 
 v 1.7 añadido un href para volver atrás tanto en instrucciones como en about
+
+v 1.8 se han modificado algunas opciones en el index relacionado con el pausa por problemas de incompatibilidad.
 
 
 
