@@ -21,9 +21,9 @@ v 1.4 se ha mejorado el javascript haciendo que el aterrizaje funcione con la te
 
 v 1.5 añadido un mensaje cuando la nave aterriza comprueba su velocidad indicándote si has ganado o perdido, se reinicia el juego automáticamente tras la alerta
 
-v 1.6 creado e implementado about notificando sobre el creador
+v 1.6 creado e implementada la pagina about notificando esta sobre el creador de contenido
 
-v 1.7 implementado un href para volver atrás tanto en instrucciones como en about
+v 1.7 añadido un href para volver atrás tanto en instrucciones como en about
 
 
 
