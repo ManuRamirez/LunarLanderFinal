@@ -1,6 +1,6 @@
 # LunarLanderFinal
 
-v 1.0 versión copiada del profesor esqueleto
+v 1.0 versión esqueleto copiada del profesor
 
 v 1.1 se ha creado el HTML
 
