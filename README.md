@@ -21,7 +21,7 @@ https://github.com/ManuRamirez/LunarLanderFinal/tree/minified
 
 <strong>v 1.5</strong> añadido un mensaje cuando la nave aterriza comprueba su velocidad indicándote si has ganado o perdido, se reinicia el juego automáticamente tras la alerta
 
-<strong>v 1.6</strong> creado e implementada la pagina about notificando esta sobre el creador de contenido
+<strong>v 1.6</strong> creado e implementada la pagina about notificando esta sobre el creador de contenido, también se ha creado el respectivo CSS para about.html y instrucciones.html (about.css y instrucciones.css)
 
 <strong>v 1.7</strong> añadido un href para volver atrás tanto en instrucciones como en about
 
