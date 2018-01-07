@@ -2,7 +2,7 @@
 
 v 1.0 versión esqueleto copiada del profesor
 
-v 1.1 se ha creado el HTML
+v 1.1 se han creado los HTML
 
 v 1.2 se ha añadido el CSS tanto en la versión PC como en la de móvil
 
