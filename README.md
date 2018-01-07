@@ -15,3 +15,8 @@ v 1.5 añadido un mensaje cuando la nave aterriza comprueba su velocidad indicá
 v 1.6 creado e implementado about notificando sobre el creador
 
 v 1.7 implementado un href para volver atrás tanto en instrucciones como en about
+
+
+Version minificada
+
+https://github.com/ManuRamirez/LunarLanderFinal/tree/minified
